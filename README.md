@@ -1,5 +1,7 @@
 # Прогноз акций
 
+[Код в colab](https://colab.research.google.com/github/pavelpryadokhin/Stock-forecast/blob/main/Fastapi%2Bstreamlit.ipynb)
+
 Данный сервис занимается анализом исторических данных о ценах на акции и на основе этого делает прогнозы на следующий день.
 
 
